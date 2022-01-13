@@ -1,1 +1,3 @@
 Dodana pierwsza linia kodu
+
+Dodano drugą linię kodu
