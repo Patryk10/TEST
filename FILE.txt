@@ -3,3 +3,5 @@ Dodana pierwsza linia kodu
 Dodano drugą linię kodu
 
 Dodano trzecią linię kodu
+
+Dodano czwartą linię kodu
